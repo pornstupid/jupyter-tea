@@ -1,0 +1,19 @@
+{
+  "name": "jupyter-tea",
+  "version": "1.0.0",
+  "description": "Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pornstupid/jupyter-tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pornstupid/jupyter-tea/issues"
+  },
+  "homepage": "https://github.com/pornstupid/jupyter-tea#readme"
+}
