@@ -16,5 +16,9 @@
         "ms-python.python"
       ]
     }
+  },
+  "features": {
+    "ghcr.io/oleksis/devcontainer-features/python-launcher:1": {},
+    "ghcr.io/devcontainers-extra/features/jshint:2": {}
   }
 }
